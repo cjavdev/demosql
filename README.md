@@ -1,24 +1,5 @@
-# README
+![Models Brief](./doc/models_brief.svg)
+<img src="./doc/models_brief.svg">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Models Complete](./doc/models_complete.svg)
+<img src="./doc/models_complete.svg">
